@@ -100,7 +100,6 @@ img {
     line-height: 20px;
     padding: 20px;
     justify-content: space-around;
-   
     
 
 }
@@ -115,20 +114,6 @@ img {
     margin-top: 0;
 
     
-}
-
-.serie2{
-    display: flex;
-    margin-top: 5px;
-    margin:0 10px;
-    border-radius: 0;
-    border: 0;
-    max-width: 40vh;
-    line-height: 20px;
-    padding: 20px;
-    flex-wrap: wrap;
-  
-
 }
 
 
