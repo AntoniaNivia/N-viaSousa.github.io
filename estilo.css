@@ -38,6 +38,7 @@ main {
     width: 80%; /* Updated width to 80% */
     justify-content: center; /* Added */
     align-items: center; /* Added */
+    flex-wrap: wrap;
 }
 
 H1 {
@@ -126,7 +127,8 @@ img {
     max-width: 40vh;
     line-height: 20px;
     padding: 20px;
-    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
   
 
 }
