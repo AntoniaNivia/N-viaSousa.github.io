@@ -119,6 +119,13 @@ main img {
 
 }
 
+.centralizar{
+    display: flex;
+    max-width: 80%;
+    
+}
+
+
 /* Media queries for tablet */
 @media (max-width: 768px) {
     aside {
